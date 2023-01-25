@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.bg {
+  min-height: 100vh;
+  width: 96%;
+  padding: 2%;
+}

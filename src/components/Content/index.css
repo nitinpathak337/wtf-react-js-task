@@ -1,0 +1,51 @@
+.search-gym-input {
+  width: 100%;
+}
+
+.filters-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 40vh;
+  width: 25%;
+}
+
+.min-max-text {
+  margin-right: 1%;
+  width: 20%;
+}
+
+.filter-near-gym-section {
+  display: flex;
+}
+
+.nearest-gym-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+}
+
+.list-container {
+  padding-left: 0%;
+  list-style-type: none;
+  width: 80%;
+}
+
+.list-item {
+  display: flex;
+  align-items: flex-start;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  padding: 2%;
+  margin: 2%;
+  cursor: pointer;
+}
+
+.list-gym-image {
+  width: 40%;
+  margin-right: 3%;
+  border-radius: 10px;
+}
